@@ -1,0 +1,2 @@
+ErrorDocument 404 /rdv3615/235/error/error.html
+DirectoryIndex noterror.html
