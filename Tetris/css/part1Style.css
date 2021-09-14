@@ -1,0 +1,39 @@
+h1, h2, h3, h4, h5, h6{
+    border-bottom: red solid 1px;
+}
+
+h2{
+    clear:right;
+}
+
+figure{
+    float: right;
+    width: 40%;
+}
+
+figure > img {
+    width: 100%;
+    margin: 1em;
+}
+
+.tet{
+    float:left;
+    width: 50%;
+}
+
+footer{
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    z-index: -100;
+    margin: 0rem 1rem;
+    clear: above;
+}
+
+main{
+    margin: 1rem;
+}
+
+header{
+    margin: 1rem;
+}

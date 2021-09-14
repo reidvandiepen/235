@@ -17,6 +17,7 @@ hr{
 
 img{
     border: 4px solid #253237;
+    margin: 4rem;
 }
 
 :link{
@@ -35,7 +36,7 @@ ul{
 }
 
 body{
-    background-color: mintcream;
+    background-color:  #253237;
     font-family: Arial, sans-serif;
 }
 
@@ -45,9 +46,14 @@ blockquote {
 }
 
 .side{
-    float: right;margin: 0 12px;
+    float: right; margin: 12px 12px;
 }
 
-footer{
-    background-color: #9db4c0;
+
+
+main, header, footer{
+    border: black 1px solid;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: mintcream;
 }
